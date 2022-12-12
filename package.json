@@ -140,7 +140,7 @@
     "peerjs-server": "https://github.com/decentraland/peerjs-server.git#ed5f4f978cddba907ba3c75f422f4f959848cd20",
     "pg-promise": "^10.9.4",
     "prom-client": "^13.1.0",
-    "qs": "^6.10.1",
+    "qs": "^6.10.3",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "response-time": "^2.3.2",
